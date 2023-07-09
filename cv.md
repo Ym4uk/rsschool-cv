@@ -1,11 +1,21 @@
 # Vladimir Tolochny
-## brief information about yourself :
+
+## brief information about yourself
+
 education development in the field of it
+
 #
-# contacts:
-## Discord - 
+
+# contacts
+
+## Discord -
+
 Ym4uk
-## e-mail - 
-bob4uk-tolochny@mail.ru
-# code example:
+
+## e-mail -
+
+<bob4uk-tolochny@mail.ru>
+
+# code example
+
 ## ---
