@@ -6,8 +6,7 @@ html, body {
     box-sizing: border-box; 
 }
 body{
-    background-image: url("https://phonoteka.org/uploads/posts/2021-04/1619655414_1-phonoteka_org-p-krasivii-fon-dlya-rezyume-1.jpg"); 
-    /* background-size: no-repeat; */
+background-image: url("https://phonoteka.org/uploads/posts/2021-04/1619655414_1-phonoteka_org-p-krasivii-fon-dlya-rezyume-1.jpg");
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
